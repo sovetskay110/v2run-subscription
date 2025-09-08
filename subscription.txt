@@ -1,1 +1,1 @@
-trojan://-akmenl8p1hZmmzutHFXeg@66.23.207.67:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US @vless_vpns
+trojan://-akmenl8p1hZmmzutHFXeg@66.23.207.67:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%40vless_10
