@@ -6,7 +6,7 @@ Xray | Бесплатный ключ
 Локация: 🇬🇧 #UK
 Стабильность: 99%
 
-trojan://BHYqz3BUcKkJ6kLlrdnUXw@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 UK @vless_vpns
+trojan://BHYqz3BUcKkJ6kLlrdnUXw@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 UK @vless_11
 
 Эмодзи не ключи, сами в канале не появятся 😊
 🔥 — Ключи - огонь | 👎 — Что-то не работает
