@@ -9,7 +9,7 @@ CHANNEL      = os.getenv('CHANNEL', 'vless_vpns')
 URL          = f'https://t.me/s/{CHANNEL}'
 
 # Сколько последних сообщений брать
-FETCH_LIMIT  = int(os.getenv('FETCH_LIMIT', 2))
+FETCH_LIMIT  = int(os.getenv('FETCH_LIMIT', 1))
 OUT_FILE     = 'subscribes.txt'
 
 def fetch_messages():
