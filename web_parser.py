@@ -18,7 +18,6 @@ def fetch_html():
 def extract_bottom_posts(html, n):
     soup   = BeautifulSoup(html, 'html.parser')
     blocks = soup.select('.tgme_widget_message_text')
-    # Берём последние n элементов из списка (самые "нижние" на странице)
     bottom = blocks[-n:] if len(blocks) >= n else blocks
     return [blk.get_text(separator='\n', strip=True) for blk in bottom]
 
@@ -26,16 +25,25 @@ def main():
     html  = fetch_html()
     posts = extract_bottom_posts(html, FETCH_NUM)
 
-    if not posts:
-        print(f'⚠️ Не найдено ни одного поста в @{CHANNEL}')
+    merged = []
+    for post in posts:
+        lines = post.splitlines()
+        for i, line in enumerate(lines):
+            if 'trojan' in line.lower():
+                # берём строку с trojan + две следующие
+                group = lines[i:i+3]
+                merged.append(' '.join(l.strip() for l in group))
+
+    if not merged:
+        print(f'⚠️ Не найдено строк с trojan в последних {FETCH_NUM} постах')
         return
 
+    # Перезаписываем файл — останутся только склеенные группы
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
-        for post in posts:
-            f.write(post + '\n\n')
+        for item in merged:
+            f.write(item + '\n')
 
-    print(f'✅ Записано {len(posts)} самых нижних {FETCH_NUM} постов в {OUT_FILE}')
+    print(f'✅ Записано {len(merged)} склеенных строк в {OUT_FILE}')
 
 if __name__ == '__main__':
     main()
-
