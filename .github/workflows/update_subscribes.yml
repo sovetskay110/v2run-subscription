@@ -39,5 +39,7 @@ jobs:
           git add subscribes.txt
           git commit --allow-empty -m "Web-parser update: $(date -u)"
           git push
+      - name: Show subscribes.txt content
+        run: cat subscribes.txt    
 
 
