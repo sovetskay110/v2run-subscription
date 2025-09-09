@@ -1,34 +1,26 @@
-import os
-import asyncio
+import os, asyncio
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
-API_ID    = int(os.environ['TELEGRAM_API_ID'])
-API_HASH  = os.environ['TELEGRAM_API_HASH']
-SESSION   = os.environ['TELEGRAM_SESSION']
-CHANNEL   = 'vless_vpns'
+API_ID   = int(os.environ['TELEGRAM_API_ID'])
+API_HASH = os.environ['TELEGRAM_API_HASH']
+SESSION  = os.environ['TELEGRAM_SESSION']
+CHANNEL  = 'vless_vpns'
 
 async def main():
-    # инициализируем клиента из StringSession (а не файла)
+    # Подключаемся к уже существующему сеансу
     client = TelegramClient(StringSession(SESSION), API_ID, API_HASH)
-    
-    # подключаемся без интерактива
     await client.connect()
-    
-    # проверяем, что сессия авторизована
+
     if not await client.is_user_authorized():
-        print('❗ Client is not authorized. Проверьте TELEGRAM_SESSION.')
-        await client.disconnect()
+        print('❗ Session невалидна — проверьте секрет TELEGRAM_SESSION')
         return
 
-    # читаем 2 последних сообщения
+    # Читаем два последних сообщения и записываем в файл
     msgs = await client.get_messages(CHANNEL, limit=2)
-    
-    # записываем их в файл (в хронологическом порядке)
     with open('subscribes.txt', 'w', encoding='utf-8') as f:
-        for msg in reversed(msgs):
-            text = msg.message or ''
-            f.write(text.strip() + '\n')
+        for m in reversed(msgs):
+            f.write((m.message or '').strip() + '\n')
 
     await client.disconnect()
 
