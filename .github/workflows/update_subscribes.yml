@@ -1,4 +1,4 @@
-name: Update Subscribes
+name: Update Subscribes (Web Parser)
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
         with:
           persist-credentials: true
@@ -24,23 +24,20 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: python -m pip install telethon
+        run: pip install requests beautifulsoup4
 
-      - name: Fetch last messages and overwrite subscribes.txt
+      - name: Fetch from web and overwrite subscribes.txt
         env:
-          TELEGRAM_API_ID:   ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-          TELEGRAM_SESSION:  ${{ secrets.TELEGRAM_SESSION }}
-          # Опционально: поменяйте на нужное количество сообщений
-          FETCH_LIMIT:       2
-        run: python telegram_fetch.py
+          CHANNEL:     'vless_vpns'
+          FETCH_LIMIT: '3'
+        run: python web_parser.py
 
-      - name: Commit and push changes (always)
+      - name: Commit and push (always)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add subscribes.txt
-          git commit --allow-empty -m "Update subscribes.txt at $(date -u)"
+          git commit --allow-empty -m "Web-parser update: $(date -u)"
           git push
 
 
