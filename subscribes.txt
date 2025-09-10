@@ -1,2 +1,14 @@
 trojan://mdWiqgep39BxFbQ5bCP5aw@66.23.207.66:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
 trojan://4iPDyTwxMmZgDqtU6s7Ppw@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇬🇧 UK @vless_vpns
+vless://3292014b-f2f0-4109-bb5b-828b1c37e5f8@world-of.ru:443?type=tcp&security=reality&pbk=9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs&fp=chrome&sni=yahoo.com&sid=71e48a&spx=%2F&flow=xtls-rprx-vision#vless-rusaortn-119-A
+trojan://dkk593VFY1@world-of.ru:27719?type=tcp&security=reality&pbk=zXseq_c6mDpevGASSOZ2B2JiDIdfGizZQIIOOabQXH0&fp=chrome&sni=twitch.tv&sid=e1526f&spx=%2F#trojan-ay338imy-119-B 🔥 🔥
+vless://09dc680d-cf2f-4579-8f64-380886655578@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=%2F&flow=xtls-rprx-vision#vless-6jj6mcm0-119-D
+trojan://2cby0afmoY@hield.ru:59533?type=tcp&security=reality&pbk=_XSFeO4xd4BcKLqEbb2PZkpEz8N6TqVMhZS-UfX0cS4&fp=chrome&sni=twitch.tv&sid=46&spx=%2F#Trojan-ulj2mqsh-119-D 🔥 🔥
+vless://81d655f8-9d0f-407d-86dc-bb3a6125cfa7@tunnyl.ru:443?type=tcp&security=reality&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&fp=chrome&sni=yahoo.com&sid=5c0333ed45b1&spx=%2F&flow=xtls-rprx-vision#vless-0x6867z7-119-C
+trojan://t9iDl18XjR@tunnyl.ru:29286?type=tcp&security=reality&pbk=PjcQT5JEhQysQJFydM5KZYLWO3T0oNie9jevP_leBWo&fp=random&sni=twitch.tv&sid=1a&spx=%2F#trojan-250dgej0-119-C 💎 Приватные VLESS-ключи
+vless://bfb3d71f-de3f-4e51-bc9b-48a917029149@world-of.ru:443?type=tcp&security=reality&pbk=9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs&fp=chrome&sni=yahoo.com&sid=71e48a&spx=%2F&flow=xtls-rprx-vision#vless-oiryv29p-120-A
+trojan://FcXTJ6oDCY@world-of.ru:27719?type=tcp&security=reality&pbk=zXseq_c6mDpevGASSOZ2B2JiDIdfGizZQIIOOabQXH0&fp=chrome&sni=twitch.tv&sid=e1526f&spx=%2F#trojan-wearspit-120-B 🔥 🔥
+vless://d31532cc-22ff-4e75-b7d0-a53739456bd7@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=%2F&flow=xtls-rprx-vision#vless-5x29dd1z-120-D
+trojan://u7kLtWNshw@hield.ru:59533?type=tcp&security=reality&pbk=_XSFeO4xd4BcKLqEbb2PZkpEz8N6TqVMhZS-UfX0cS4&fp=chrome&sni=twitch.tv&sid=46&spx=%2F#Trojan-vhxa6wm9-120-D 🔥 🔥
+vless://173e1c5c-e9d7-49d1-aba1-582f0070fd93@tunnyl.ru:443?type=tcp&security=reality&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&fp=chrome&sni=yahoo.com&sid=5c0333ed45b1&spx=%2F&flow=xtls-rprx-vision#vless-m645x45j-120-C
+trojan://OQDQJ6DuW4@tunnyl.ru:29286?type=tcp&security=reality&pbk=PjcQT5JEhQysQJFydM5KZYLWO3T0oNie9jevP_leBWo&fp=random&sni=twitch.tv&sid=1a&spx=%2F#trojan-gylssfh1-120-C 💎 Приватные VLESS-ключи
