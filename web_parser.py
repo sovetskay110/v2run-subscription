@@ -3,7 +3,6 @@
 import os
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
 
 # Название канала (без @)
 CHANNEL    = os.getenv('CHANNEL', 'vless_vpns')
@@ -38,21 +37,12 @@ def main():
         print(f'⚠️ Не найдено строк с trojan в последних {FETCH_NUM} постах')
         return
 
-    # текущая дата в формате DD_MM
-    date_str = datetime.now().strftime('%d_%m')
-
-    # заменяем в каждой склеенной строке суффикс 'vpns' на дату
-    processed = []
-    for item in merged:
-        if item.endswith('vpns'):
-            item = item[:-4] + date_str
-        processed.append(item)
-
+    # Записываем склеенные группы строк без замены суффикса 'vpns'
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
-        for line in processed:
-            f.write(line + '\n')
+        for item in merged:
+            f.write(item + '\n')
 
-    print(f'✅ Записано {len(processed)} склеенных строк в {OUT_FILE}')
+    print(f'✅ Записано {len(merged)} склеенных строк в {OUT_FILE}')
 
 if __name__ == '__main__':
     main()
