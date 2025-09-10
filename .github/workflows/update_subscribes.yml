@@ -5,7 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '05 16 * * *'
+    - cron: '05 15 * * *'  # каждый день в 15:05 UTC
+    - cron: '05 16 * * *'  # каждый день в 16:05 UTC
   workflow_dispatch:
 
 jobs:
