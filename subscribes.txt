@@ -12,3 +12,4 @@ vless://4081f16c-bcbe-463a-87ea-b163bcc414b4@tunnyl.ru:443?type=tcp&security=rea
 trojan://hb72rmLKcE@tunnyl.ru:29286?type=tcp&security=reality&pbk=PjcQT5JEhQysQJFydM5KZYLWO3T0oNie9jevP_leBWo&fp=random&sni=twitch.tv&sid=1a&spx=%2F#trojan-9ioelgc2-5-C 🔥 🔥
 vless://b84311c6-68d9-4020-a9c4-bdb808e5f2bb@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=%2F&flow=xtls-rprx-vision#vless-ym141rpt-5-F
 trojan://chbWWm4OQS@hield.ru:59533?type=tcp&security=reality&pbk=_XSFeO4xd4BcKLqEbb2PZkpEz8N6TqVMhZS-UfX0cS4&fp=chrome&sni=twitch.tv&sid=46&spx=%2F#Trojan-bgvtf2b1-5-F 💎 Приватные VLESS-ключи
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cFBET2FZcEwwYW0yQWJjSFBrc3dp@194.87.45.189:443#🇪🇸 Испания
