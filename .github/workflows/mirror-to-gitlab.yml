@@ -7,7 +7,7 @@ on:
   schedule:
     - cron: '05 3 * * *'  # каждый день в 06:05 мск
     - cron: '05 8 * * *'  # каждый день в 11:05 мск
-  workflow_dispatch:      # ручной запуск
+  workflow_dispatch:      # ручной запуск через интерфейс GitHub
 
 jobs:
   sync:
@@ -28,6 +28,8 @@ jobs:
         run: |
           git remote add gitlab https://VleKEY:${{ secrets.GITLAB_TOKEN }}@gitlab.com/VleKEY/v2run-subscription.git
 
-      - name: Push to GitLab
+      - name: Push branches and tags to GitLab
         run: |
-          git push --mirror gitlab
+          git push --prune gitlab +refs/heads/*:refs/heads/*
+          git push --prune gitlab +refs/tags/*:refs/tags/*
+
