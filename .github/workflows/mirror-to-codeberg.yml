@@ -22,10 +22,9 @@ jobs:
 
       - name: Add Codeberg remote
         run: |
-          git remote add codeberg https://codeberg.org/MXVLE/subscribes.git
+          git remote add codeberg https://MXVLE:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/MXVLE/subscribes.txt.git
 
       - name: Push to Codeberg
-        env:
-          GIT_ASKPASS: /bin/echo
         run: |
           git push --mirror codeberg
+
