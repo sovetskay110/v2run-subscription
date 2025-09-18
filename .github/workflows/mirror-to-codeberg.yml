@@ -1,0 +1,29 @@
+name: Mirror to Codeberg
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 3 * * *'  # каждый день в 03:00 UTC
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Mirror Bot"
+          git config --global user.email "mirror-bot@example.com"
+
+      - name: Add Codeberg remote
+        run: |
+          git remote add codeberg https://<MXVLE>:<151ca0517122dd829c441038333ed25c28182189>@codeberg.org/<MXVLE>/<REPO>.git
+
+      - name: Push to Codeberg
+        run: |
+          git push --mirror codeberg
