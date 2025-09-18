@@ -1,0 +1,33 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '05 3 * * *'  # каждый день в 06:05 мск
+    - cron: '05 8 * * *'  # каждый день в 11:05 мск
+  workflow_dispatch:      # ручной запуск
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout GitHub repo with full history
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # отключаем shallow clone
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Mirror Bot"
+          git config --global user.email "mirror-bot@example.com"
+
+      - name: Add GitLab remote
+        run: |
+          git remote add gitlab https://VleKEY:${{ secrets.GITLAB_TOKEN }}@gitlab.com/VleKEY/v2run-subscription.git
+
+      - name: Push to GitLab
+        run: |
+          git push --mirror gitlab
