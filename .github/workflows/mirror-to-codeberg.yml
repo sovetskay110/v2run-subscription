@@ -22,7 +22,7 @@ jobs:
 
       - name: Add Codeberg remote
         run: |
-          git remote add codeberg https://MXVLE:98b57918809945b0ee38612a687fabb1cef26331@codeberg.org/MXVLE/https://codeberg.org/MXVLE.git
+          git remote add codeberg https://MXVLE:98b57918809945b0ee38612a687fabb1cef26331@codeberg.org/MXVLE/subscribes.git
 
       - name: Push to Codeberg
         run: |
