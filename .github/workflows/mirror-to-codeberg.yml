@@ -7,6 +7,7 @@ on:
   schedule:
     - cron: '05 3 * * *'  # каждый день в 06:05 мск
     - cron: '05 8 * * *'  # каждый день в 11:05 мск
+  workflow_dispatch:      # 🔘 ручной запуск через интерфейс GitHub
 
 jobs:
   sync:
@@ -16,7 +17,7 @@ jobs:
       - name: Checkout GitHub repo with full history
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 🔧 Важно: отключаем shallow clone
+          fetch-depth: 0  # отключаем shallow clone
 
       - name: Set up Git
         run: |
