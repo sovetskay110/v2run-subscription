@@ -62,6 +62,8 @@ def main():
             f.write(item + '\n')
 
     print(f'✅ Записано {len(merged)} записей (trojan + vless + VLESS1) из каналов {CHANNELS} в {OUT_FILE}')
+    print(f'🔍 VLESS1 из ENV: {vless1}')
+
 
 
 if __name__ == '__main__':
