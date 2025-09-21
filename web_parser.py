@@ -25,6 +25,7 @@ def main():
 
     # Добавление ключа из секретов Codespaces
     vless1 = os.getenv('VLESS1')
+    print(f'🔍 VLESS1 из ENV: {vless1}')
     if vless1:
         merged.append(vless1)
 
