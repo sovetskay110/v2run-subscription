@@ -1,5 +1,5 @@
-trojan://4DsECV3ZbF6WfUUvOgw-RA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇬🇧 UK @vless_vpns
 trojan://icWm0bZu2cGZa6mRHtbAGQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
+trojan://5vFqm3SN80ECxsnYsttoHQ@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇬🇧 UK @vless_vpns
 vless://9d38f7bf-a1ba-40ec-9307-a8ec9eb9624e@tunnyl.ru:443?type=tcp&encryption=none&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&fp=random&sni=google.com&sid=0f1d6a&spx=%2F&flow=xtls-rprx-vision#%E2%AD%90%EF%B8%8FVless-h78zzw0j
 trojan://4Y2dQZiE80@tunnyl.ru:4500?type=tcp&security=reality&pbk=r2jNUAlBiggQbzpW5kvgRcvrY1KEqsI9VJ7pqQLZHCI&fp=random&sni=google.com&sid=6d98aa4fac&spx=%2F#%F0%9F%94%84TR-6ft61rwe 🔥 🔥
 vless://174923d1-3c7b-46d6-a000-3dfc0ba16249@world-of.ru:443?type=tcp&encryption=none&security=reality&pbk=6bdxTggpMa9veyosJjxCvB3UPZmj-OquWTqp1iXAP3Y&fp=random&sni=google.com&sid=785be44fdf&spx=%2F&flow=xtls-rprx-vision#%F0%9F%94%84Vless-gh9r5o85
