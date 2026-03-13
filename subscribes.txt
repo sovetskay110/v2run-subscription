@@ -1,5 +1,5 @@
-trojan://qHRGPTgzA-bA0C2N1sJ1Sg@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
 trojan://SNkaSPYKfKJ9UvgIQiVC8g@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
+trojan://wFM1zypn4tL9njQBmfyV2A@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
 vless://76e159e3-da7b-4e90-8f3e-2bb67974c73e@wap.tunnyl.ru:3440?type=tcp&encryption=none&security=reality&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&fp=random&sni=yandex.net&sid=e265b68a&spx=%2F&flow=xtls-rprx-vision#balaui1x
 vless://b1732581-75dd-4101-8c3f-3fcf2d325c04@wap.tunnyl.ru:3440?type=tcp&encryption=none&security=reality&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&fp=random&sni=yandex.net&sid=e265b68a&spx=%2F&flow=xtls-rprx-vision#l1j8601i
 vless://57bf5b0e-6f60-479c-a76b-04cce23ffe23@wap.tunnyl.ru:3440?type=tcp&encryption=none&security=reality&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&fp=random&sni=yandex.net&sid=e265b68a&spx=%2F&flow=xtls-rprx-vision#mewq9kh9
