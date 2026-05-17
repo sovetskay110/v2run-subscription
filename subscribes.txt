@@ -1,109 +1,69 @@
-security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01# 🇺🇸 US @vless_vpns
-#hash:8718babbb4530faaa3385a0f96de16f2
-🌐
-Бесплатные для Karing/v2rayN
-📇
-Протокол - naive
-🗓
-Действует: 24 часа
-🌐
-Трафик - упирается в лимиты хостера
-🔒
-Ограничение: торрент клиенты =
-👮‍♂
-🆕
-🆕
-🆕
-naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
-🆕
-🆕
-🆕
-naive+https://hYd8MVFGn6aWSFEHZ7XW:q4jtSP6KVk9YRT7MpsPU@one.hield.ru:443
-🆕
-🆕
-🆕
-naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
-🟡
-🟡
-🟡
-Для IOS -Брать
-ТУТ
-Для Android -Брать
-ТУТ
-Для Windows -Брать
-ТУТ
-👉
-Купить ключ в боте
-👉
-Тест-ключи и прочее
-👉
-VPN Key v2.0 — резервный канал
-📩
-Поддержка - Контакты
+Xray
+| Бесплатный ключ
+Безлимитный трафик
+Срок действия:
+2 дня
+Локация:
+🇺🇸
+#US
+Стабильность:
+99%
+trojan://moGCI3h_4EO-Mfl77LrIfw@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#
+🇺🇸
+US @vless_vpns
+Эмодзи не ключи, сами в канале не появятся
+😊
 🔥
-Поддержите наш канал!
-💙
-Взяли ключ? Будем рады, если вы:
-👍
-Поставите лайк (или не ставьте — это на ваше усмотрение)
-⭐️
-Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
-🔝
-Проголосуете, если пользуетесь Telegram Premium
-Спасибо за вашу поддержку!
-🙌
+— Ключи - огонь |
+👎
+— Что-то не работает
+@vless_vpns
+|
+Премиум ключи - в боте
 
-#hash:443c4c41b9b6b35ee0e67fbe7986790b
-🌐
-Бесплатные для Karing/v2rayN
-📇
-Протокол - naive
-🗓
-Действует: 24 часа
-🌐
-Трафик - упирается в лимиты хостера
-🔒
-Ограничение: торрент клиенты =
-👮‍♂
-🆕
-🆕
-🆕
-naive+https://4s9mZJEuNTJzkusTm9aU:5pNaEG5deQqEtQeYBdFU@one.hield.ru:443
-🆕
-🆕
-🆕
-naive+https://KXmBkpnWtwdgWTqX4vWv:7Ah7SFYpGJbVVJKSTdh3@one.hield.ru:443
-🆕
-🆕
-🆕
-naive+https://kXzgZDVaxbK4cxRA84gv:rWMm9NYaz65jCmCXV62X@one.hield.ru:443
-🟡
-🟡
-🟡
-Для IOS -Брать
-ТУТ
-Для Android -Брать
-ТУТ
-Для Windows -Брать
-ТУТ
-👉
-Купить ключ в боте
-👉
-Тест-ключи и прочее
-👉
-VPN Key v2.0 — резервный канал
-📩
-Поддержка - Контакты
+Xray
+| Бесплатный ключ
+Безлимитный трафик
+Срок действия:
+2 дня
+Локация:
+🇺🇸
+#US
+Стабильность:
+99%
+trojan://vCZbwXMAbDmMEZAOlh9LyQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#
+🇺🇸
+US @vless_vpns
+Эмодзи не ключи, сами в канале не появятся
+😊
 🔥
-Поддержите наш канал!
-💙
-Взяли ключ? Будем рады, если вы:
-👍
-Поставите лайк (или не ставьте — это на ваше усмотрение)
-⭐️
-Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
-🔝
-Проголосуете, если пользуетесь Telegram Premium
-Спасибо за вашу поддержку!
-🙌
+— Ключи - огонь |
+👎
+— Что-то не работает
+@vless_vpns
+|
+Премиум ключи - в боте
+
+Xray
+| Бесплатный ключ
+Безлимитный трафик
+Срок действия:
+2 дня
+Локация:
+🇺🇸
+#US
+Стабильность:
+99%
+trojan://j5_v7g2KNlgBGiBsD3HWgw@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#
+🇺🇸
+US @vless_vpns
+Эмодзи не ключи, сами в канале не появятся
+😊
+🔥
+— Ключи - огонь |
+👎
+— Что-то не работает
+@vless_vpns
+|
+Премиум ключи - в боте
 
