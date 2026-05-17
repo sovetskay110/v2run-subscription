@@ -1,72 +1,52 @@
-# web_parser.py
-
-import os
 import requests
 from bs4 import BeautifulSoup
+import hashlib
+import os
 
-# Список каналов для парсинга (без @)
-# Можно переопределить через ENV: export CHANNELS="vless_vpns,vpn_free_one_day"
-CHANNELS      = os.getenv('CHANNELS', 'vless_vpns,vpn_free_one_day').split(',')
-URL_TEMPLATE  = 'https://t.me/s/{}'
-FETCH_NUM     = 2
-OUT_FILE      = 'subscribes.txt'
+URL = "https://t.me/s/vpn_free_one_day"
+OUT_FILE = "subscribes.txt"
 
-def fetch_html(channel: str) -> str:
-    url = URL_TEMPLATE.format(channel.strip())
-    resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-    resp.raise_for_status()
-    return resp.text
 
-def extract_bottom_posts(html: str, n: int) -> list[str]:
-    soup   = BeautifulSoup(html, 'html.parser')
-    blocks = soup.select('.tgme_widget_message_text')
-    bottom = blocks[-n:] if len(blocks) >= n else blocks
-    return [blk.get_text(separator='\n', strip=True) for blk in bottom]
+def get_last_posts(url, count=2):
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, "html.parser")
 
-def main():
-    merged = []
+    posts = soup.find_all("div", class_="tgme_widget_message_text")
+    texts = [p.get_text("\n", strip=True) for p in posts]
 
-    for channel in CHANNELS:
-        try:
-            html  = fetch_html(channel)
-        except Exception as e:
-            print(f'⚠️ Ошибка при запросе @{channel}: {e}')
-            continue
+    return texts[-count:]  # последние N постов
 
-        posts = extract_bottom_posts(html, FETCH_NUM)
+
+def hash_text(text):
+    return hashlib.md5(text.encode("utf-8")).hexdigest()
+
+
+def load_existing_hashes(path):
+    if not os.path.exists(path):
+        return set()
+
+    hashes = set()
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("#hash:"):
+                hashes.add(line.strip().split(":")[1])
+    return hashes
+
+
+def append_posts_to_file(posts, path):
+    existing = load_existing_hashes(path)
+
+    with open(path, "a", encoding="utf-8") as f:
         for post in posts:
-            lines = post.splitlines()
-            for i, line in enumerate(lines):
-                text = line.strip()
+            h = hash_text(post)
+            if h in existing:
+                continue  # уже есть — пропускаем
 
-                # 1) trojan-группа из 3 строк
-                if 'trojan' in text.lower():
-                    group = lines[i:i+3]
-                    merged.append(' '.join(l.strip() for l in group))
-
-                # 2) отдельные vless:// строки
-                if 'vless://' in text.lower():
-                    merged.append(text)
-
-    # Добавление ключа из секретов Codespaces
-    vless1 = os.getenv('VLESS1')
-    if vless1:
-        merged.append(vless1)
-
-    if not merged:
-        print(f'⚠️ Не найдено ни trojan, ни vless в последних {FETCH_NUM} постах каналов {CHANNELS}')
-        return
-
-    with open(OUT_FILE, 'w', encoding='utf-8') as f:
-        for item in merged:
-            f.write(item + '\n')
-
-    print(f'✅ Записано {len(merged)} записей (trojan + vless + VLESS1) из каналов {CHANNELS} в {OUT_FILE}')
-    print(f'🔍 VLESS1 из ENV: {vless1}')
+            f.write("#hash:" + h + "\n")
+            f.write(post + "\n\n")
 
 
-
-if __name__ == '__main__':
-    main()
-
-
+if __name__ == "__main__":
+    last_posts = get_last_posts(URL, 2)
+    append_posts_to_file(last_posts, OUT_FILE)
+    print("Готово — последние два поста добавлены в subscribes.txt")
