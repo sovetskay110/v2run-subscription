@@ -1,34 +1,36 @@
-import os
 import requests
 from bs4 import BeautifulSoup
+import hashlib
+import os
 
-CHANNEL = os.getenv("CHANNEL", "vpn_free_one_day").strip()
-FETCH_LIMIT = int(os.getenv("FETCH_LIMIT", "2"))
-
-URL = f"https://t.me/s/{CHANNEL}"
+URL = "https://t.me/s/vpn_free_one_day"
 OUT_FILE = "subscribes.txt"
 
 
-def fetch_posts():
-    response = requests.get(URL, timeout=20)
-    response.raise_for_status()
+def get_last_posts(url, count=2):
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, "html.parser")
 
-    soup = BeautifulSoup(response.text, "html.parser")
     posts = soup.find_all("div", class_="tgme_widget_message_text")
-
     texts = [p.get_text("\n", strip=True) for p in posts]
-    return texts[-FETCH_LIMIT:]  # последние N постов
+
+    return texts[-count:]  # последние N постов
 
 
-def save_posts(posts):
-    # Полное очищение файла (режим "w" перезаписывает файл)
-    with open(OUT_FILE, "w", encoding="utf-8") as f:
+def hash_text(text):
+    return hashlib.md5(text.encode("utf-8")).hexdigest()
+
+
+def save_posts_overwrite(posts, path):
+    # Полная перезапись файла
+    with open(path, "w", encoding="utf-8") as f:
         for post in posts:
+            h = hash_text(post)
+            f.write("#hash:" + h + "\n")
             f.write(post + "\n\n")
 
 
 if __name__ == "__main__":
-    posts = fetch_posts()
-    save_posts(posts)
-    print(f"Saved {len(posts)} posts from {CHANNEL} → {OUT_FILE}")
-
+    last_posts = get_last_posts(URL, 2)
+    save_posts_overwrite(last_posts, OUT_FILE)
+    print("Готово — subscribes.txt полностью перезаписан последними двумя постами")
