@@ -1,4 +1,4 @@
-#hash:1b2807b1f927244a6f89280a8a706044
+#hash:553c8f44bdc558842af9f7d86decf68d
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -13,15 +13,15 @@
 🆕
 🆕
 🆕
-naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
+naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
+naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://9gk67JnBxjHMmcggbnvU:G4Y9fdAAE6EeRmQcBH6N@one.hield.ru:443
+naive+https://3A79HYCKUfGZW4Q87h8dF:gAcMVWf3NgtwVQDKV2N9@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -52,7 +52,7 @@ VPN Key v2.0 — резервный канал
 Спасибо за вашу поддержку!
 🙌
 
-#hash:553c8f44bdc558842af9f7d86decf68d
+#hash:d85d23509ded3e27e29df8b445c188bd
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -67,15 +67,15 @@ VPN Key v2.0 — резервный канал
 🆕
 🆕
 🆕
-naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
+naive+https://4SpGBfbpFs2XPUT974JHv:RtKBNYRKfCpKm3424Z72@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://5g2RFenfdxVZuVZw5heqK:9GhVGdazwzcSVmqqCUqS@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://3A79HYCKUfGZW4Q87h8dF:gAcMVWf3NgtwVQDKV2N9@one.hield.ru:443
+naive+https://6Drbgx4bwwDMZsn7jFVHF:MuvfFfRg25vhnzBxNX8q@one.hield.ru:443
 🟡
 🟡
 🟡
