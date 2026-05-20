@@ -1,4 +1,4 @@
-#hash:d85d23509ded3e27e29df8b445c188bd
+#hash:e9ab027e9ae56248288cfa6f6aeb0d99
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -13,15 +13,15 @@
 🆕
 🆕
 🆕
-naive+https://4SpGBfbpFs2XPUT974JHv:RtKBNYRKfCpKm3424Z72@one.hield.ru:443
+naive+https://xKZfdw4hpdmBy5vzmfH6:jdcmHR4S6yvkh2U3t8Up@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://5g2RFenfdxVZuVZw5heqK:9GhVGdazwzcSVmqqCUqS@one.hield.ru:443
+naive+https://bKZ8BR52ECqrExE67PeK:VpygyqygVgHjrxZNdRm9@one.hield.ru:443
 🆕
 🆕
 🆕
-naive+https://6Drbgx4bwwDMZsn7jFVHF:MuvfFfRg25vhnzBxNX8q@one.hield.ru:443
+naive+https://4s9mZJEuNTJzkusTm9aU:5pNaEG5deQqEtQeYBdFU@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -52,7 +52,7 @@ VPN Key v2.0 — резервный канал
 Спасибо за вашу поддержку!
 🙌
 
-#hash:e9ab027e9ae56248288cfa6f6aeb0d99
+#hash:e1f8b96eab5f7ddf86566939a66a616d
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -67,15 +67,18 @@ VPN Key v2.0 — резервный канал
 🆕
 🆕
 🆕
-naive+https://xKZfdw4hpdmBy5vzmfH6:jdcmHR4S6yvkh2U3t8Up@one.hield.ru:443
+naive+https://KXmBkpnWtwdgWTqX4vWv:7Ah7SFYpGJbVVJKSTdh3@one.hield.ru:443
+hysteria2://3Ptw4SRr8AhGggBu7xs4:gCgkEDq2qxwgZtRumWjB@one.hield.ru:443?sni=one.hield.ru&insecure=0#3Ptw4SRr8AhGggBu7xs4
 🆕
 🆕
 🆕
-naive+https://bKZ8BR52ECqrExE67PeK:VpygyqygVgHjrxZNdRm9@one.hield.ru:443
+naive+https://kXzgZDVaxbK4cxRA84gv:rWMm9NYaz65jCmCXV62X@one.hield.ru:443
+hysteria2://mFsWuszUvhPNK5qR4gqq:ktSM2tCyr4mTV74dqpvz@one.hield.ru:443?sni=one.hield.ru&insecure=0#mFsWuszUvhPNK5qR4gqq
 🆕
 🆕
 🆕
-naive+https://4s9mZJEuNTJzkusTm9aU:5pNaEG5deQqEtQeYBdFU@one.hield.ru:443
+naive+https://rts7y546rsay:6JaVXpjQ9VFZeebrDQV6@one.hield.ru:443
+hysteria2://m8B36N4XCv2hqQK5q7cC:m8B36N4XCv2hqQK5q7cC@one.hield.ru:443?sni=one.hield.ru&insecure=0#m8B36N4XCv2hqQK5q7cC
 🟡
 🟡
 🟡
