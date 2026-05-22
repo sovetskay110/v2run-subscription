@@ -1,4 +1,4 @@
-#hash:198f4402327952bcd539be965aabc341
+#hash:a0bd63d5c7a53d79845469cabcba343f
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -13,18 +13,18 @@
 🆕
 🆕
 🆕
-naive+https://652E5xcGSdeU2v8AaGXS:652E5xcGSdeU2v8AaGXS@one.hield.ru:443
-hysteria2://wwezn9pfqH:PBYJ9pjsFkxTRwT3Z8Y5@one.hield.ru:443?sni=one.hield.ru&insecure=0#wwezn9pfqH
+naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
+hysteria2://nT2jjUcEjqAqpUNQdr9N:Y8GxDhWxr6p3gyE83Hdf@one.hield.ru:443?sni=one.hield.ru&insecure=0#nT2jjUcEjqAqpUNQdr9N
 🆕
 🆕
 🆕
-naive+https://JMzA8hXTprG38sgmb5VT:hpA3ufcXd6ZBbRWXnuVB@one.hield.ru:443
-hysteria2://grFYmWYnG:8r3VMVGtswnYNNtBfASU@one.hield.ru:443?sni=one.hield.ru&insecure=0#grFYmWYnG
+naive+https://hYd8MVFGn6aWSFEHZ7XW:q4jtSP6KVk9YRT7MpsPU@one.hield.ru:443
+hysteria2://9FDHe9XPcbPV4RaMp8dy:PjW3vRXFGMWKPvFAZ4x7@one.hield.ru:443?sni=one.hield.ru&insecure=0#9FDHe9XPcbPV4RaMp8dy
 🆕
 🆕
 🆕
-naive+https://GVdhNGrWZ7y7pdPpEAvq:GVdhNGrWZ7y7pdPpEAvq@one.hield.ru:443
-hysteria2://MXqYuJh3:MXqYuJh3YTZQMNRqK3sR@one.hield.ru:443?sni=one.hield.ru&insecure=0#MXqYuJh3
+naive+https://Kw39qZ8gexQuqrZFAABm:g6PDJ5xR57cFWEWgBtmM@one.hield.ru:443
+hysteria2://qSEZWZcKJUWNKHxdvHXu:Zew2mwECmNjD6sgYGafE@one.hield.ru:443?sni=one.hield.ru&insecure=0#qSEZWZcKJUWNKHxdvHXu
 🟡
 🟡
 🟡
@@ -55,7 +55,7 @@ VPN Key v2.0 — резервный канал
 Спасибо за вашу поддержку!
 🙌
 
-#hash:a0bd63d5c7a53d79845469cabcba343f
+#hash:a7f38aa6018001df5378b0b1968a277c
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -70,18 +70,18 @@ VPN Key v2.0 — резервный канал
 🆕
 🆕
 🆕
-naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
-hysteria2://nT2jjUcEjqAqpUNQdr9N:Y8GxDhWxr6p3gyE83Hdf@one.hield.ru:443?sni=one.hield.ru&insecure=0#nT2jjUcEjqAqpUNQdr9N
+naive+https://ewrawer:Q3ACmeekta7vJVAjrZJ7@one.hield.ru:443
+hysteria2://3Ptw4SRr8AhGggBu7xs4:gCgkEDq2qxwgZtRumWjB@one.hield.ru:443?sni=one.hield.ru&insecure=0#3Ptw4SRr8AhGggBu7xs4
 🆕
 🆕
 🆕
-naive+https://hYd8MVFGn6aWSFEHZ7XW:q4jtSP6KVk9YRT7MpsPU@one.hield.ru:443
-hysteria2://9FDHe9XPcbPV4RaMp8dy:PjW3vRXFGMWKPvFAZ4x7@one.hield.ru:443?sni=one.hield.ru&insecure=0#9FDHe9XPcbPV4RaMp8dy
+naive+https://wetry54:CCHKEyP6mCRsm67ngScv@one.hield.ru:443
+hysteria2://mFsWuszUvhPNK5qR4gqq:ktSM2tCyr4mTV74dqpvz@one.hield.ru:443?sni=one.hield.ru&insecure=0#mFsWuszUvhPNK5qR4gqq
 🆕
 🆕
 🆕
-naive+https://Kw39qZ8gexQuqrZFAABm:g6PDJ5xR57cFWEWgBtmM@one.hield.ru:443
-hysteria2://qSEZWZcKJUWNKHxdvHXu:Zew2mwECmNjD6sgYGafE@one.hield.ru:443?sni=one.hield.ru&insecure=0#qSEZWZcKJUWNKHxdvHXu
+naive+https://ytid6789e67:hNCg9bgNDFfpJmBnx5Ue@one.hield.ru:443
+hysteria2://m8B36N4XCv2hqQK5q7cC:m8B36N4XCv2hqQK5q7cC@one.hield.ru:443?sni=one.hield.ru&insecure=0#m8B36N4XCv2hqQK5q7cC
 🟡
 🟡
 🟡
