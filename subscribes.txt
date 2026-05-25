@@ -1,4 +1,4 @@
-#hash:700f3e8a5db39231c4fb978c72bdc37a
+#hash:1dabc412f61282c204ea4b7ea618096b
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -15,19 +15,19 @@
 ⭐️
 ⭐️
 ⭐️
-vless://e4a4a2cd-e2f3-4a73-94ab-8a117d1391b2@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-gobdzvsq-1
-vless://4b4a6983-7e2f-4540-a7ca-5d2909cac3a4@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-74setrs6-2
-vless://e5a03526-8658-4e97-85cb-51115aa13324@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-5jivysf4-3
-vless://09105500-2ecc-45ab-b1de-f28d33b90d73@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-uoezkp08-4
-vless://2dabefdc-3f59-432d-b38c-ade7ba62f9c6@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-45d15h22-5
+vless://f8e46bd1-86cc-4cc8-af7a-deabbc1396c4@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-%2B1%2B0
+vless://362a3aea-9289-4cda-a810-c87bda64b9d7@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-%2B2%2B0
+vless://ce2ef292-b5a7-4411-b1ee-e6a27ccf3e93@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-%2B3%2B0
+vless://4e0bca81-bfcb-4cb5-bc3f-cc7b61743d46@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-%2B4%2B0
+vless://ef5e8c0e-63e6-47a0-b66d-02aba7be433b@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-%2B5%2B0
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
-naive+https://bKZ8BR52ECqrExE67PeK:VpygyqygVgHjrxZNdRm9@one.hield.ru:443
-naive+https://4s9mZJEuNTJzkusTm9aU:5pNaEG5deQqEtQeYBdFU@one.hield.ru:443
-naive+https://KXmBkpnWtwdgWTqX4vWv:7Ah7SFYpGJbVVJKSTdh3@one.hield.ru:443
+naive+https://652E5xcGSdeU2v8AaGXS:652E5xcGSdeU2v8AaGXS@one.hield.ru:443
+naive+https://JMzA8hXTprG38sgmb5VT:hpA3ufcXd6ZBbRWXnuVB@one.hield.ru:443
+naive+https://GVdhNGrWZ7y7pdPpEAvq:GVdhNGrWZ7y7pdPpEAvq@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -55,10 +55,8 @@ VPN Key v2.0 — резервный канал
 Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
 🔝
 Проголосуете, если пользуетесь Telegram Premium
-Спасибо за вашу поддержку!
-🙌
 
-#hash:ddec494996212da58a731e0b498007e9
+#hash:d06996f111b42af822e23acde4374e5b
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -75,19 +73,19 @@ VPN Key v2.0 — резервный канал
 ⭐️
 ⭐️
 ⭐️
-vless://826ae865-7df4-4717-8d7e-ea5d509f293e@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-h97o916qfree1
-vless://15ef742a-302e-4fdc-9a19-9eb71ef187f5@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-hei15a6qfree2
-vless://09364081-e9e9-47f6-9c6d-684f7e6301b5@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-flm1goxffree3
-vless://1de66016-dc04-4aad-8d27-58487518b426@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-c37r79pufree4
-vless://c6d52aa8-0033-4eed-85be-47ad995e2ade@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-brdosnyyfree5
+vless://58bb20e8-590a-48d1-9869-4db2692a54dc@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision-udp443#Vless-%2B1-0
+vless://100b65ec-3f4d-4984-a27e-fdd00dbe8900@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision-udp443#Vless-%2B2-0
+vless://e80db78b-1468-4faa-a420-a2896df5e060@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision-udp443#Vless-%2B3-0
+vless://17372380-02ba-472f-9505-70dee442b856@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision-udp443#Vless-%2B4-0
+vless://f3ae6725-a909-46f7-a25b-6f6cb47116df@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision-udp443#Vless-%2B5-0
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
-naive+https://ewrawer:Q3ACmeekta7vJVAjrZJ7@one.hield.ru:443
-naive+https://wetry54:CCHKEyP6mCRsm67ngScv@one.hield.ru:443
-naive+https://ytid6789e67:hNCg9bgNDFfpJmBnx5Ue@one.hield.ru:443
+naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
+naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://3A79HYCKUfGZW4Q87h8dF:gAcMVWf3NgtwVQDKV2N9@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -115,6 +113,4 @@ VPN Key v2.0 — резервный канал
 Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
 🔝
 Проголосуете, если пользуетесь Telegram Premium
-Спасибо за вашу поддержку!
-🙌
 
