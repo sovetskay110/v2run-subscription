@@ -1,17 +1,3 @@
-#hash:5612c0ba2679d46f77cfe5c18b175934
-⚡️
-Работа сайта и Telegram-бота восстановлена
-Уважаемые пользователи,
-все основные сервисы снова работают в штатном режиме
-✅
-Сайт и Telegram-бот полностью восстановили работоспособность после сбоя на стороне инфраструктуры хостинг-провайдера.
-💳
-Важно для пользователей, которые производили оплату в период недоступности сервисов:
-Если вы выполняли оплату в момент, когда сайт или бот были временно недоступны, пожалуйста, отправьте чек или подтверждение оплаты в поддержку или стандартным способом.
-Это поможет нам быстрее проверить платеж и сделать пополнение баланса.
-Благодарим всех за понимание, терпение и поддержку
-🙏
-
 #hash:805e527274f604f7e33d7091b84d1559
 🌐
 Бесплатные для Karing/v2rayN
@@ -42,6 +28,64 @@ vless://3f4ea448-b446-4029-b2e9-443b70403fa9@locwud.hield.ru:32022?flow=xtls-rpr
 naive+https://652E5xcGSdeU2v8AaGXS:652E5xcGSdeU2v8AaGXS@one.hield.ru:443
 naive+https://JMzA8hXTprG38sgmb5VT:hpA3ufcXd6ZBbRWXnuVB@one.hield.ru:443
 naive+https://GVdhNGrWZ7y7pdPpEAvq:GVdhNGrWZ7y7pdPpEAvq@one.hield.ru:443
+🟡
+🟡
+🟡
+Для IOS -Брать
+ТУТ
+Для Android -Брать
+ТУТ
+Для Windows -Брать
+ТУТ
+👉
+Купить ключ в боте
+👉
+Тест-ключи и прочее
+👉
+VPN Key v2.0 — резервный канал
+📩
+Поддержка - Контакты
+🔥
+Поддержите наш канал!
+💙
+Взяли ключ? Будем рады, если вы:
+👍
+Поставите лайк (или не ставьте — это на ваше усмотрение)
+⭐️
+Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
+🔝
+Проголосуете, если пользуетесь Telegram Premium
+
+#hash:55eeaa0575e71a109c72994357b65eaa
+🌐
+Бесплатные для Karing/v2rayN
+📇
+Протокол - naive+vless
+🗓
+Действует: 24 часа
+🌐
+Трафик - упирается в лимиты хостера
+🔒
+Ограничение: торрент клиенты =
+👮‍♂
+😉
+⭐️
+⭐️
+⭐️
+⭐️
+vless://793eb6a2-dcdd-4ba6-b95f-97f96d085014@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=344ec969825017&sni=www.rutube.ru&spx=%2FH9GYNuQJQtY6uUs&type=tcp#Vless-cv299b-1D%E2%8F%B3
+vless://ad1a6588-c97d-442e-850e-8a69ab325d98@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=445a1d16898d60e3&sni=rutube.ru&spx=%2FdwrK6xqS9umJegG&type=tcp#Vless-x1fdw6-1D%E2%8F%B3
+vless://0ea7e230-d910-4e9e-823d-790df009991b@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=a3d2028602&sni=www.rutube.ru&spx=%2Fin7IP9KQIUbpJfp&type=tcp#Vless-bmi8eq-1D%E2%8F%B3
+vless://e72a687b-c5f9-42df-b0ea-5e990dffe613@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=e4222c&sni=rutube.ru&spx=%2FHcAHEgH1L0iX1dd&type=tcp#Vless-tdg6iz-1D%E2%8F%B3
+vless://22f0d50a-4dc7-4168-8067-c5102de85966@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=01e2&sni=rutube.ru&spx=%2FzjkUltu94zmZVmw&type=tcp#Vless-zlxdv3-1D%E2%8F%B3
+✍️
+✍️
+✍️
+✍️
+✍️
+naive+https://EGMfV87Hka2qP5FgnHZN:EGMfV87Hka2qP5FgnHZN@one.hield.ru:443
+naive+https://rts7y546rsay:6JaVXpjQ9VFZeebrDQV6@one.hield.ru:443
+naive+https://kXzgZDVaxbK4cxRA84gv:rWMm9NYaz65jCmCXV62X@one.hield.ru:443
 🟡
 🟡
 🟡
