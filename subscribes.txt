@@ -1,61 +1,3 @@
-#hash:55eeaa0575e71a109c72994357b65eaa
-🌐
-Бесплатные для Karing/v2rayN
-📇
-Протокол - naive+vless
-🗓
-Действует: 24 часа
-🌐
-Трафик - упирается в лимиты хостера
-🔒
-Ограничение: торрент клиенты =
-👮‍♂
-😉
-⭐️
-⭐️
-⭐️
-⭐️
-vless://793eb6a2-dcdd-4ba6-b95f-97f96d085014@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=344ec969825017&sni=www.rutube.ru&spx=%2FH9GYNuQJQtY6uUs&type=tcp#Vless-cv299b-1D%E2%8F%B3
-vless://ad1a6588-c97d-442e-850e-8a69ab325d98@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=445a1d16898d60e3&sni=rutube.ru&spx=%2FdwrK6xqS9umJegG&type=tcp#Vless-x1fdw6-1D%E2%8F%B3
-vless://0ea7e230-d910-4e9e-823d-790df009991b@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=a3d2028602&sni=www.rutube.ru&spx=%2Fin7IP9KQIUbpJfp&type=tcp#Vless-bmi8eq-1D%E2%8F%B3
-vless://e72a687b-c5f9-42df-b0ea-5e990dffe613@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=e4222c&sni=rutube.ru&spx=%2FHcAHEgH1L0iX1dd&type=tcp#Vless-tdg6iz-1D%E2%8F%B3
-vless://22f0d50a-4dc7-4168-8067-c5102de85966@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=01e2&sni=rutube.ru&spx=%2FzjkUltu94zmZVmw&type=tcp#Vless-zlxdv3-1D%E2%8F%B3
-✍️
-✍️
-✍️
-✍️
-✍️
-naive+https://EGMfV87Hka2qP5FgnHZN:EGMfV87Hka2qP5FgnHZN@one.hield.ru:443
-naive+https://rts7y546rsay:6JaVXpjQ9VFZeebrDQV6@one.hield.ru:443
-naive+https://kXzgZDVaxbK4cxRA84gv:rWMm9NYaz65jCmCXV62X@one.hield.ru:443
-🟡
-🟡
-🟡
-Для IOS -Брать
-ТУТ
-Для Android -Брать
-ТУТ
-Для Windows -Брать
-ТУТ
-👉
-Купить ключ в боте
-👉
-Тест-ключи и прочее
-👉
-VPN Key v2.0 — резервный канал
-📩
-Поддержка - Контакты
-🔥
-Поддержите наш канал!
-💙
-Взяли ключ? Будем рады, если вы:
-👍
-Поставите лайк (или не ставьте — это на ваше усмотрение)
-⭐️
-Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
-🔝
-Проголосуете, если пользуетесь Telegram Premium
-
 #hash:e5b1ca7864b1c330c0ff3dccc5793099
 🌐
 Бесплатные для Karing/v2rayN
@@ -86,6 +28,64 @@ vless://a9f4fdc7-32e6-4c9e-8875-272a380757fd@locwud.hield.ru:32022?flow=xtls-rpr
 naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
 naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
 naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
+🟡
+🟡
+🟡
+Для IOS -Брать
+ТУТ
+Для Android -Брать
+ТУТ
+Для Windows -Брать
+ТУТ
+👉
+Купить ключ в боте
+👉
+Тест-ключи и прочее
+👉
+VPN Key v2.0 — резервный канал
+📩
+Поддержка - Контакты
+🔥
+Поддержите наш канал!
+💙
+Взяли ключ? Будем рады, если вы:
+👍
+Поставите лайк (или не ставьте — это на ваше усмотрение)
+⭐️
+Подпишетесь на канал (или отпишетесь, если не понравится — честно!)
+🔝
+Проголосуете, если пользуетесь Telegram Premium
+
+#hash:aecf1fdbbc58fbab5fe4fd60cb967699
+🌐
+Бесплатные для Karing/v2rayN
+📇
+Протокол - naive+vless
+🗓
+Действует: 24 часа
+🌐
+Трафик - упирается в лимиты хостера
+🔒
+Ограничение: торрент клиенты =
+👮‍♂
+😉
+⭐️
+⭐️
+⭐️
+⭐️
+vless://2096c819-d27b-4a94-98bd-915c20ea65d6@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=3a&sni=rutube.ru&spx=%2Fgo9PNFFvb3wDASq&type=tcp#Vless-dzwhin-1D%E2%8F%B3
+vless://28ae9f1b-4721-4781-ac7a-89cd9a2e2459@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=344ec969825017&sni=rutube.ru&spx=%2FQXuy5l6TQ3PwZf7&type=tcp#Vless-vhta9a-1D%E2%8F%B3
+vless://7fb9ad4d-1cd2-4f66-815b-7baec8c40cf9@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=3a&sni=www.rutube.ru&spx=%2Frma0te2KxCGimPF&type=tcp#Vless-ulg5ve-1D%E2%8F%B3
+vless://f2d78c83-ff11-4a5d-aef6-7de02d67d572@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=45def8aaf571&sni=rutube.ru&spx=%2FRcfi4dIDOkDnmej&type=tcp#Vless-8n87t3-1D%E2%8F%B3
+vless://16cc6834-f07b-4cc4-a190-059e0da6440e@locwud.hield.ru:32022?flow=xtls-rprx-vision&fp=random&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&security=reality&sid=a70eff67&sni=rutube.ru&spx=%2FA1aEmvbNGeFSpyX&type=tcp#Vless-bjiafi-1D%E2%8F%B3
+✍️
+✍️
+✍️
+✍️
+✍️
+naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://3A79HYCKUfGZW4Q87h8dF:gAcMVWf3NgtwVQDKV2N9@one.hield.ru:443
+naive+https://4SpGBfbpFs2XPUT974JHv:RtKBNYRKfCpKm3424Z72@one.hield.ru:443
 🟡
 🟡
 🟡
