@@ -1,8 +1,8 @@
-#hash:5664c0259b7ea1c7f5bff3343b4eecf0
+#hash:0e1a1c203587e9065141f9735aa7b070
 🌐
 Бесплатные для Karing/v2rayN
 📇
-Протокол - naive+vless
+Протокол - naive
 🗓
 Действует: 24 часа
 🌐
@@ -10,24 +10,16 @@
 🔒
 Ограничение: торрент клиенты =
 👮‍♂
-😉
-⭐️
-⭐️
-⭐️
-⭐️
-vless://e65badc8-61cb-461a-92fe-f61ec5533549@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-9igeqgrsDHO1-DOT
-vless://a10c247c-071b-48f9-85e5-332dbea125e3@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-7wksicnuDHO2-DOT
-vless://c5d390df-688f-467f-83a4-b0d7109320c6@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-zpimn79qDHO3-DOT
-vless://faece3e2-8646-43f7-8582-c3a2e22b26b5@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-ag86ymakDHO4-DOT
-vless://173bba01-91a2-4b41-9fb1-e57f3f9c7325@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-2k1ml468DHO5-DOT
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
-naive+https://5g2RFenfdxVZuVZw5heqK:9GhVGdazwzcSVmqqCUqS@one.hield.ru:443
-naive+https://6Drbgx4bwwDMZsn7jFVHF:MuvfFfRg25vhnzBxNX8q@one.hield.ru:443
-naive+https://xKZfdw4hpdmBy5vzmfH6:jdcmHR4S6yvkh2U3t8Up@one.hield.ru:443
+naive+https://wetry54:CCHKEyP6mCRsm67ngScv@one.hield.ru:443
+naive+https://ytid6789e67:hNCg9bgNDFfpJmBnx5Ue@one.hield.ru:443
+naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
+naive+https://hYd8MVFGn6aWSFEHZ7XW:q4jtSP6KVk9YRT7MpsPU@one.hield.ru:443
+naive+https://Kw39qZ8gexQuqrZFAABm:g6PDJ5xR57cFWEWgBtmM@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -56,11 +48,11 @@ VPN Key v2.0 — резервный канал
 🔝
 Проголосуете, если пользуетесь Telegram Premium
 
-#hash:e2486faa3d28057d5f6129ecd9eab729
+#hash:8bdd2a0dff7893603ee5985958a92e63
 🌐
 Бесплатные для Karing/v2rayN
 📇
-Протокол - naive+vless
+Протокол - naive
 🗓
 Действует: 24 часа
 🌐
@@ -68,24 +60,16 @@ VPN Key v2.0 — резервный канал
 🔒
 Ограничение: торрент клиенты =
 👮‍♂
-😉
-⭐️
-⭐️
-⭐️
-⭐️
-vless://9c9e4b99-b85d-4292-80b7-c70d100aef17@locwud.hield.ru:8443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=6PDV7c5t924LkPGlDTCB5hWPQ_0t5JCt4qPu_IG2LQA&fp=firefox&sni=st.ozone.ru&sid=77&spx=%2F#Vless%20XHTTP-mnub59a4
-vless://6ce9810c-4cba-42a0-9b03-0f546691f526@locwud.hield.ru:8443?type=xhttp&encryption=none&path=%2F&host=&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=6PDV7c5t924LkPGlDTCB5hWPQ_0t5JCt4qPu_IG2LQA&fp=firefox&sni=st.ozone.ru&sid=77&spx=%2F#Vless%20XHTTP-j0s6gamg
-vless://e426611b-b89c-430f-b831-93b30c263420@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-0xaq1p5c
-vless://6e1fbb0e-adc6-47ca-816f-608dbf1822c0@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-k50prz0o
-vless://85fd68f0-2bdd-4c3e-a6ee-b67d098826a3@locwud.hield.ru:32022?type=tcp&encryption=none&security=reality&pbk=0qcp5v-nFe5_i2MNGQS9GnHk6ZS27XhKK7R_MUJo1jA&fp=random&sni=rutube.ru&sid=e4222c&spx=%2F&flow=xtls-rprx-vision#Vless-zq3fwd42
 ✍️
 ✍️
 ✍️
 ✍️
 ✍️
-naive+https://d68fNDY9xqNdAPZptsGU:d68fNDY9xqNdAPZptsGU@one.hield.ru:443
-naive+https://zNayf5Pn8ASdBkD9CERa:PwNaHtXnQ9QgzBtPJ6Ng@one.hield.ru:443
-naive+https://Kv4p7gRvCmRaRgpjkxBT:w9psxk5qrzPCZRnVehZq@one.hield.ru:443
+naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
+naive+https://9gk67JnBxjHMmcggbnvU:G4Y9fdAAE6EeRmQcBH6N@one.hield.ru:443
+naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
+naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://3A79HYCKUfGZW4Q87h8dF:gAcMVWf3NgtwVQDKV2N9@one.hield.ru:443
 🟡
 🟡
 🟡
