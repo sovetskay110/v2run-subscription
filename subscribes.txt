@@ -1,4 +1,4 @@
-#hash:b1dc65140de5ecb0d133964fc5cf509c
+#hash:43c1acbc006ad0cf22f83989efc2de15
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -15,11 +15,11 @@
 ✍️
 ✍️
 ✍️
-naive+https://ytid6789e67:hNCg9bgNDFfpJmBnx5Ue@one.hield.ru:443
-naive+https://esgErZxNgT2FVpqmCXXU:aUgGnGGAY7k7Wh6bhM9A@one.hield.ru:443
-naive+https://hYd8MVFGn6aWSFEHZ7XW:q4jtSP6KVk9YRT7MpsPU@one.hield.ru:443
-naive+https://Kw39qZ8gexQuqrZFAABm:g6PDJ5xR57cFWEWgBtmM@one.hield.ru:443
-naive+https://652E5xcGSdeU2v8AaGXS:652E5xcGSdeU2v8AaGXS@one.hield.ru:443
+naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
+naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
+naive+https://9gk67JnBxjHMmcggbnvU:G4Y9fdAAE6EeRmQcBH6N@one.hield.ru:443
+naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
+naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
 🟡
 🟡
 🟡
@@ -48,7 +48,7 @@ VPN Key v2.0 — резервный канал
 🔝
 Проголосуете, если пользуетесь Telegram Premium
 
-#hash:43c1acbc006ad0cf22f83989efc2de15
+#hash:471b23457a6a037ca618972c0c315207
 🌐
 Бесплатные для Karing/v2rayN
 📇
@@ -65,11 +65,11 @@ VPN Key v2.0 — резервный канал
 ✍️
 ✍️
 ✍️
-naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
-naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
-naive+https://9gk67JnBxjHMmcggbnvU:G4Y9fdAAE6EeRmQcBH6N@one.hield.ru:443
-naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
-naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://4SpGBfbpFs2XPUT974JHv:RtKBNYRKfCpKm3424Z72@one.hield.ru:443
+naive+https://5g2RFenfdxVZuVZw5heqK:9GhVGdazwzcSVmqqCUqS@one.hield.ru:443
+naive+https://6Drbgx4bwwDMZsn7jFVHF:MuvfFfRg25vhnzBxNX8q@one.hield.ru:443
+naive+https://xKZfdw4hpdmBy5vzmfH6:jdcmHR4S6yvkh2U3t8Up@one.hield.ru:443
+naive+https://bKZ8BR52ECqrExE67PeK:VpygyqygVgHjrxZNdRm9@one.hield.ru:443
 🟡
 🟡
 🟡
