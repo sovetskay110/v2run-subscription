@@ -48,13 +48,13 @@ VPN Key v2.0 — резервный канал
 🔝
 Проголосуете, если пользуетесь Telegram Premium
 
-#hash:43c1acbc006ad0cf22f83989efc2de15
+#hash:5af609cfb68aecf6bc2f11837150841b
 🌐
 Бесплатные для Karing/v2rayN
 📇
 Протокол - naive
 🗓
-Действует: 24 часа
+Действует: 72 часа
 🌐
 Трафик - упирается в лимиты хостера
 🔒
@@ -65,14 +65,14 @@ VPN Key v2.0 — резервный канал
 ✍️
 ✍️
 ✍️
-naive+https://1W53GNjdYKzBH2JWePRrP:tWEMHAatnZ5njT3avVde@one.hield.ru:443
-naive+https://y6XBmMpDAJC5sPj27Cgs:jJXYG8ZuaE3XJXseDaeN@one.hield.ru:443
-naive+https://9gk67JnBxjHMmcggbnvU:G4Y9fdAAE6EeRmQcBH6N@one.hield.ru:443
-naive+https://1fwm8yEWf3YYYx48dUWfk:gu5k8qfVqKKxgrvCKCFb@one.hield.ru:443
-naive+https://2qQb9rtU95KZrDGMfET84:FtadZkMrxuUzhnf3c5av@one.hield.ru:443
+naive+https://Sektor-Gaza:GJ2faTjcFSth86XrB7er@one.hield.ru:443
+naive+https://Korol-i-SHut:ZMhm7YnRMaGqzWUht9CK@one.hield.ru:443
+naive+https://Kino:Sun4vjQcQz34UKkpgbEW@one.hield.ru:443
+naive+https://Ariya:4pzMCEVdJC3RgpTh4agr@one.hield.ru:443
+naive+https://AC-DC:gwvbJy38rEAdxdXWTEQ3@one.hield.ru:443
+🔴
 🟡
-🟡
-🟡
+🟢
 Для IOS -Брать
 ТУТ
 Для Android -Брать
